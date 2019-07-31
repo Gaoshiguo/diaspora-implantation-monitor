@@ -1,2 +1,2 @@
-# Runtime-Veri-cation
-运行时验证的相关技术和工具
+# diaspora-implantation-monitor
+在开源的社交网络软件diaspora上植入一个监控器
